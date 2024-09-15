@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/HKjSTrj/glass1.webp",
+      "title": "Classic Aviators",
+      "price": 129.99,
+      "description": "Timeless aviator sunglasses with a sleek metal frame and reflective lenses.",
+      "category": "Sunglasses",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/PFVd35C/glass2.webp",
+      "title": "Sporty Wraparounds",
+      "price": 99.99,
+      "description": "Durable and flexible wraparound sunglasses designed for an active lifestyle.",
+      "category": "Sunglasses",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/ZhFsW72/glass3.webp",
+      "title": "Retro Round Frames",
+      "price": 89.99,
+      "description": "Vintage-inspired round sunglasses with a bold and stylish frame.",
+      "category": "Sunglasses",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/xD6CBdW/glass6.webp",
+      "title": "Polarized Wayfarers",
+      "price": 139.99,
+      "description": "Classic wayfarer sunglasses with polarized lenses to reduce glare.",
+      "category": "Sunglasses",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/W3xT9Tn/glass7.webp",
+      "title": "Cat Eye Glam",
+      "price": 119.99,
+      "description": "Elegant cat eye sunglasses that add a touch of glamour to any outfit.",
+      "category": "Sunglasses",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/8Xhv4V1/glass8.webp",
+      "title": "Minimalist Square",
+      "price": 109.99,
+      "description": "Modern square sunglasses with a minimalist design and lightweight frame.",
+      "category": "Sunglasses",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/PtN9ngG/glass9.webp",
+      "title": "Bold Aviators",
+      "price": 134.99,
+      "description": "Bold and striking aviator sunglasses with oversized lenses.",
+      "category": "Sunglasses",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/f4W54jC/glass10.webp",
+      "title": "Elegant Oversized",
+      "price": 149.99,
+      "description": "Elegant oversized sunglasses offering complete UV protection and a high-fashion look.",
+      "category": "Sunglasses",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/rmz9g49/glass11.webp",
+      "title": "Vintage Shades",
+      "price": 119.99,
+      "description": "Retro sunglasses with a distinctive vintage style and premium materials.",
+      "category": "Sunglasses",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/vsgmckk/glass12.webp",
+      "title": "Chic Round Frames",
+      "price": 94.99,
+      "description": "Stylish round sunglasses that combine modern aesthetics with classic charm.",
+      "category": "Sunglasses",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "cover": "https://i.ibb.co/NCzQqQw/glass13.webp",
+      "title": "Trendy Hexagon",
+      "price": 109.99,
+      "description": "Unique hexagon-shaped sunglasses that make a bold fashion statement.",
+      "category": "Sunglasses",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "cover": "https://i.ibb.co/7XLJtcb/glass14.webp",
+      "title": "Sporty Sunglasses",
+      "price": 99.99,
+      "description": "Performance-oriented sunglasses with a sporty design for active users.",
+      "category": "Sunglasses",
+      "rating": 4.5
+    }
+  ]
+  
